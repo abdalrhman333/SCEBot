@@ -1,0 +1,8 @@
+azure-functions>=1.17.0
+botbuilder-core>=4.16.0
+botbuilder-integration-aiohttp>=4.16.0
+botbuilder-schema>=4.16.0
+openai>=1.30.0
+python-docx>=1.1.0
+pandas>=2.0.0
+openpyxl>=3.1.0
